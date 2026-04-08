@@ -1,0 +1,12 @@
+/Users/karthikeyaraparla/RiderProjects/Fundoo/ModelLayer/bin/Debug/net8.0/ModelLayer.deps.json
+/Users/karthikeyaraparla/RiderProjects/Fundoo/ModelLayer/bin/Debug/net8.0/ModelLayer.dll
+/Users/karthikeyaraparla/RiderProjects/Fundoo/ModelLayer/bin/Debug/net8.0/ModelLayer.pdb
+/Users/karthikeyaraparla/RiderProjects/Fundoo/ModelLayer/obj/Debug/net8.0/ModelLayer.csproj.AssemblyReference.cache
+/Users/karthikeyaraparla/RiderProjects/Fundoo/ModelLayer/obj/Debug/net8.0/ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karthikeyaraparla/RiderProjects/Fundoo/ModelLayer/obj/Debug/net8.0/ModelLayer.AssemblyInfoInputs.cache
+/Users/karthikeyaraparla/RiderProjects/Fundoo/ModelLayer/obj/Debug/net8.0/ModelLayer.AssemblyInfo.cs
+/Users/karthikeyaraparla/RiderProjects/Fundoo/ModelLayer/obj/Debug/net8.0/ModelLayer.csproj.CoreCompileInputs.cache
+/Users/karthikeyaraparla/RiderProjects/Fundoo/ModelLayer/obj/Debug/net8.0/ModelLayer.dll
+/Users/karthikeyaraparla/RiderProjects/Fundoo/ModelLayer/obj/Debug/net8.0/refint/ModelLayer.dll
+/Users/karthikeyaraparla/RiderProjects/Fundoo/ModelLayer/obj/Debug/net8.0/ModelLayer.pdb
+/Users/karthikeyaraparla/RiderProjects/Fundoo/ModelLayer/obj/Debug/net8.0/ref/ModelLayer.dll

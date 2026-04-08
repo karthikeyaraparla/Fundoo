@@ -1,0 +1,17 @@
+/Users/karthikeyaraparla/RiderProjects/Fundoo/DataBaseLayer/bin/Debug/net8.0/DataBaseLayer.deps.json
+/Users/karthikeyaraparla/RiderProjects/Fundoo/DataBaseLayer/bin/Debug/net8.0/DataBaseLayer.dll
+/Users/karthikeyaraparla/RiderProjects/Fundoo/DataBaseLayer/bin/Debug/net8.0/DataBaseLayer.pdb
+/Users/karthikeyaraparla/RiderProjects/Fundoo/DataBaseLayer/bin/Debug/net8.0/ModelLayer.dll
+/Users/karthikeyaraparla/RiderProjects/Fundoo/DataBaseLayer/bin/Debug/net8.0/TestingLayer.dll
+/Users/karthikeyaraparla/RiderProjects/Fundoo/DataBaseLayer/bin/Debug/net8.0/ModelLayer.pdb
+/Users/karthikeyaraparla/RiderProjects/Fundoo/DataBaseLayer/bin/Debug/net8.0/TestingLayer.pdb
+/Users/karthikeyaraparla/RiderProjects/Fundoo/DataBaseLayer/obj/Debug/net8.0/DataBaseLayer.csproj.AssemblyReference.cache
+/Users/karthikeyaraparla/RiderProjects/Fundoo/DataBaseLayer/obj/Debug/net8.0/DataBaseLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karthikeyaraparla/RiderProjects/Fundoo/DataBaseLayer/obj/Debug/net8.0/DataBaseLayer.AssemblyInfoInputs.cache
+/Users/karthikeyaraparla/RiderProjects/Fundoo/DataBaseLayer/obj/Debug/net8.0/DataBaseLayer.AssemblyInfo.cs
+/Users/karthikeyaraparla/RiderProjects/Fundoo/DataBaseLayer/obj/Debug/net8.0/DataBaseLayer.csproj.CoreCompileInputs.cache
+/Users/karthikeyaraparla/RiderProjects/Fundoo/DataBaseLayer/obj/Debug/net8.0/DataBase.D97539FC.Up2Date
+/Users/karthikeyaraparla/RiderProjects/Fundoo/DataBaseLayer/obj/Debug/net8.0/DataBaseLayer.dll
+/Users/karthikeyaraparla/RiderProjects/Fundoo/DataBaseLayer/obj/Debug/net8.0/refint/DataBaseLayer.dll
+/Users/karthikeyaraparla/RiderProjects/Fundoo/DataBaseLayer/obj/Debug/net8.0/DataBaseLayer.pdb
+/Users/karthikeyaraparla/RiderProjects/Fundoo/DataBaseLayer/obj/Debug/net8.0/ref/DataBaseLayer.dll

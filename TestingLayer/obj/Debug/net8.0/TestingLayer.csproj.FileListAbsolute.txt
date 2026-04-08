@@ -1,0 +1,12 @@
+/Users/karthikeyaraparla/RiderProjects/Fundoo/TestingLayer/bin/Debug/net8.0/TestingLayer.deps.json
+/Users/karthikeyaraparla/RiderProjects/Fundoo/TestingLayer/bin/Debug/net8.0/TestingLayer.dll
+/Users/karthikeyaraparla/RiderProjects/Fundoo/TestingLayer/bin/Debug/net8.0/TestingLayer.pdb
+/Users/karthikeyaraparla/RiderProjects/Fundoo/TestingLayer/obj/Debug/net8.0/TestingLayer.csproj.AssemblyReference.cache
+/Users/karthikeyaraparla/RiderProjects/Fundoo/TestingLayer/obj/Debug/net8.0/TestingLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karthikeyaraparla/RiderProjects/Fundoo/TestingLayer/obj/Debug/net8.0/TestingLayer.AssemblyInfoInputs.cache
+/Users/karthikeyaraparla/RiderProjects/Fundoo/TestingLayer/obj/Debug/net8.0/TestingLayer.AssemblyInfo.cs
+/Users/karthikeyaraparla/RiderProjects/Fundoo/TestingLayer/obj/Debug/net8.0/TestingLayer.csproj.CoreCompileInputs.cache
+/Users/karthikeyaraparla/RiderProjects/Fundoo/TestingLayer/obj/Debug/net8.0/TestingLayer.dll
+/Users/karthikeyaraparla/RiderProjects/Fundoo/TestingLayer/obj/Debug/net8.0/refint/TestingLayer.dll
+/Users/karthikeyaraparla/RiderProjects/Fundoo/TestingLayer/obj/Debug/net8.0/TestingLayer.pdb
+/Users/karthikeyaraparla/RiderProjects/Fundoo/TestingLayer/obj/Debug/net8.0/ref/TestingLayer.dll
