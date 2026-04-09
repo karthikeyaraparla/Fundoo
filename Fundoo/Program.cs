@@ -1,4 +1,5 @@
 using BusinessLayer.Interface;
+using BusinessLayer.RabbitMQ;
 using BusinessLayer.Service;
 using DataBaseLayer.Interfaces;
 using DataBaseLayer.Repository;
@@ -73,6 +74,7 @@ namespace Fundoo
                 };
             });
             
+            builder.Services.AddScoped<IRabbitMQProducer, RabbitMQProducer>();
             builder.Services.AddScoped<EmailService>();
             builder.Services.AddAuthorization();
 

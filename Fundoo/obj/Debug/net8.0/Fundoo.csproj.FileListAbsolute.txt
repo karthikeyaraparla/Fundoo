@@ -83,3 +83,5 @@
 /Users/karthikeyaraparla/RiderProjects/Fundoo/Fundoo/bin/Debug/net8.0/ModelLayer.pdb
 /Users/karthikeyaraparla/RiderProjects/Fundoo/Fundoo/bin/Debug/net8.0/TestingLayer.pdb
 /Users/karthikeyaraparla/RiderProjects/Fundoo/Fundoo/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/karthikeyaraparla/RiderProjects/Fundoo/Fundoo/bin/Debug/net8.0/RabbitMQ.Client.dll
+/Users/karthikeyaraparla/RiderProjects/Fundoo/Fundoo/obj/Debug/net8.0/Fundoo.sourcelink.json

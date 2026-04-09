@@ -50,6 +50,15 @@ namespace FunDooDapper.Controllers
                     Errors = new[] { ex.Message }
                 });
             }
+            catch (MessageQueueException ex)
+            {
+                return StatusCode(StatusCodes.Status502BadGateway, new ApiResponse<object>
+                {
+                    Success = false,
+                    Message = "User registered, but RabbitMQ failed to queue the welcome email.",
+                    Errors = new[] { ex.Message }
+                });
+            }
         }
     }
 }

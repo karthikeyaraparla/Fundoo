@@ -10,3 +10,4 @@
 /Users/karthikeyaraparla/RiderProjects/Fundoo/ModelLayer/obj/Debug/net8.0/refint/ModelLayer.dll
 /Users/karthikeyaraparla/RiderProjects/Fundoo/ModelLayer/obj/Debug/net8.0/ModelLayer.pdb
 /Users/karthikeyaraparla/RiderProjects/Fundoo/ModelLayer/obj/Debug/net8.0/ref/ModelLayer.dll
+/Users/karthikeyaraparla/RiderProjects/Fundoo/ModelLayer/obj/Debug/net8.0/ModelLayer.sourcelink.json

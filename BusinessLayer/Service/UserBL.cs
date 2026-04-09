@@ -1,4 +1,5 @@
 using BusinessLayer.Interface;
+using BusinessLayer.RabbitMQ;
 using ModelLayer;
 using ModelLayer.DTOs;
 using DataBaseLayer.Interfaces;
@@ -9,12 +10,12 @@ namespace BusinessLayer.Service;
 public class UserBL : IUserBL
 {
     private readonly IUserDL _userDL;
-    private readonly EmailService _emailService;
+    private readonly IRabbitMQProducer _rabbitMqProducer;
 
-    public UserBL(IUserDL userDL, EmailService emailService)
+    public UserBL(IUserDL userDL, IRabbitMQProducer rabbitMqProducer)
     {
         _userDL = userDL;
-        _emailService = emailService;
+        _rabbitMqProducer = rabbitMqProducer;
     }
 
     public async Task<UserResponseDto> CreateUserAsync(UserRegisterDto userDto)
@@ -45,7 +46,12 @@ public class UserBL : IUserBL
             <b>Fundoo Team</b>
         ";
 
-        await _emailService.SendEmailAsync(createdUser.Email, subject, body);
+        await _rabbitMqProducer.SendMessageAsync(new EmailDto
+        {
+            To = createdUser.Email,
+            Subject = subject,
+            Body = body
+        });
 
         return new UserResponseDto
         {

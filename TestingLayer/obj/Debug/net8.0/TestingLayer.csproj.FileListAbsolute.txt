@@ -10,3 +10,4 @@
 /Users/karthikeyaraparla/RiderProjects/Fundoo/TestingLayer/obj/Debug/net8.0/refint/TestingLayer.dll
 /Users/karthikeyaraparla/RiderProjects/Fundoo/TestingLayer/obj/Debug/net8.0/TestingLayer.pdb
 /Users/karthikeyaraparla/RiderProjects/Fundoo/TestingLayer/obj/Debug/net8.0/ref/TestingLayer.dll
+/Users/karthikeyaraparla/RiderProjects/Fundoo/TestingLayer/obj/Debug/net8.0/TestingLayer.sourcelink.json

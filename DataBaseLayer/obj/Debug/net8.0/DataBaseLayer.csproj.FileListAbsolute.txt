@@ -15,3 +15,4 @@
 /Users/karthikeyaraparla/RiderProjects/Fundoo/DataBaseLayer/obj/Debug/net8.0/refint/DataBaseLayer.dll
 /Users/karthikeyaraparla/RiderProjects/Fundoo/DataBaseLayer/obj/Debug/net8.0/DataBaseLayer.pdb
 /Users/karthikeyaraparla/RiderProjects/Fundoo/DataBaseLayer/obj/Debug/net8.0/ref/DataBaseLayer.dll
+/Users/karthikeyaraparla/RiderProjects/Fundoo/DataBaseLayer/obj/Debug/net8.0/DataBaseLayer.sourcelink.json

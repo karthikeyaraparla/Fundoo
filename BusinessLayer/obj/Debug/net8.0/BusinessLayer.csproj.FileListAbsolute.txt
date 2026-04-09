@@ -17,3 +17,4 @@
 /Users/karthikeyaraparla/RiderProjects/Fundoo/BusinessLayer/obj/Debug/net8.0/refint/BusinessLayer.dll
 /Users/karthikeyaraparla/RiderProjects/Fundoo/BusinessLayer/obj/Debug/net8.0/BusinessLayer.pdb
 /Users/karthikeyaraparla/RiderProjects/Fundoo/BusinessLayer/obj/Debug/net8.0/ref/BusinessLayer.dll
+/Users/karthikeyaraparla/RiderProjects/Fundoo/BusinessLayer/obj/Debug/net8.0/BusinessLayer.sourcelink.json
